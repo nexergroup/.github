@@ -1,1 +1,1 @@
-# FOSS @ Nexer Group
+# foss@nexergroup.com
